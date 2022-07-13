@@ -1,0 +1,1 @@
+pinyin similarity for two list with different length
